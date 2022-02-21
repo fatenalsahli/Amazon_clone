@@ -1,11 +1,21 @@
 <p style="color: green"><%= notice %></p>
 
- 
-   <% @item.uploads.each do |upload|%>
- <%= image_tag upload , size:'250x250' %></p>
+
+
+<p>
+ <h2> Bag Cover </h2>
+ <% if @item.cover.attached? %>
+   <%= image_tag(@item.cover , size: '250x250')  %>
+   <%= button_to "delete cover",purge_avatar_item_path(@item), method: :delete %>
+   <%end%>
+ </p>
+
+  <h2> Bag Images </h2>
+<% @item.uploads.each do |upload|%>
+  <%= image_tag(upload , size: '250x250')%>
  <%end%>
 
-  <%=image_tag @item.cover , size:'250x250'%></p>
+
 
 <%= render @item %>
 

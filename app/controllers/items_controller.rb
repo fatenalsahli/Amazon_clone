@@ -1,11 +1,18 @@
 class ItemsController < ApplicationController
   before_action :set_item, only: %i[ show edit update destroy ]
 
+
+  def purge_avatar
+    @item = Item.find(params[:id])
+    @item.cover.purge
+    redirect_back fallback_location: root_path, notice: "success"  
+  end
+
+
   # GET /items or /items.json
   def index
     @items = Item.all
   end
-
 
 
   # GET /items/1 or /items/1.json
