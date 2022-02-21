@@ -56,11 +56,14 @@ faten alsahli
 <img width="376" alt="Screen Shot 1443-07-11 at 9 37 57 PM" src="https://user-images.githubusercontent.com/97634511/153724068-77bde805-bff4-418f-b559-b6ec999894ec.png">
 <img width="292" alt="Screen Shot 1443-07-11 at 9 37 51 PM" src="https://user-images.githubusercontent.com/97634511/153724069-ef6968a3-0746-45dc-bd2b-b5aa7e9b9af6.png">
 
-2- Delete Item Cover 
+2- Delete Item Cover :
+
+<img width="1512" alt="Screen Shot 1443-07-20 at 7 02 18 PM" src="https://user-images.githubusercontent.com/97634511/154990847-a1030371-d0f6-42bc-86fb-12230990b117.png">
+
 
 <img width="1512" alt="Screen Shot 1443-07-20 at 7 02 23 PM" src="https://user-images.githubusercontent.com/97634511/154990830-e2bc1c10-8b49-484f-8f6d-89c08484a1b6.png">
 
-<img width="1512" alt="Screen Shot 1443-07-20 at 7 02 18 PM" src="https://user-images.githubusercontent.com/97634511/154990847-a1030371-d0f6-42bc-86fb-12230990b117.png">
+
 
 
 
