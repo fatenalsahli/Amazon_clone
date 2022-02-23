@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  devise_for :myusers
+  #get 'home/index'
   resources :items 
   resources :items do
     member do
