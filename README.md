@@ -65,6 +65,24 @@ faten alsahli
 
 
 
+3- Test sign in and registration (Devise Gem) :
+
+New User !
+
+
+<img width="734" alt="Screen Shot 1443-07-22 at 4 57 20 PM" src="https://user-images.githubusercontent.com/97634511/155334870-2ea27a64-a26e-434f-9817-23be1a5c5331.png">
+
+
+
+Sign Out !
+
+<img width="606" alt="Screen Shot 1443-07-22 at 4 56 07 PM" src="https://user-images.githubusercontent.com/97634511/155334954-e07d60e3-c686-4cd9-a469-cfd85225f6e5.png">
+
+Sign In !
+
+<img width="597" alt="Screen Shot 1443-07-22 at 4 56 04 PM" src="https://user-images.githubusercontent.com/97634511/155335005-eda3d686-cf72-4e89-944a-149f093968a8.png">
+
+
 
 
 
