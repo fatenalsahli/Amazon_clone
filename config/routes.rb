@@ -11,6 +11,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
-  root "items#index"
+  #root "items#index"
+  root to: "home#index"
  #get 'items/:id/delete_cover', to: 'items#delete_cover', as: :Delete
 end
